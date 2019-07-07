@@ -3,7 +3,7 @@ public class Test01_Dylan {
 	public static void main(String[] args) {
 	
 		Member01 m01 
-		= new Member01("Dylan","커밋을 하고싶어요..."); // <-수정!
+		= new Member01("Dylan"); // <-요기!
 		m01.print();
 	}
 
